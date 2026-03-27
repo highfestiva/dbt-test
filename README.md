@@ -3,6 +3,7 @@
 ## Initialize
 
 ```bash
+pip install dbt-postgres
 ./create-db.sh  # create a postgres instance in docker
 dbt seed        # initialize some data
 dbt run         # create the materialization
