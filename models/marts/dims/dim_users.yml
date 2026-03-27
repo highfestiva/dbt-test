@@ -1,0 +1,13 @@
+version: 2
+
+models:
+  - name: dim_users
+    description: "Canonical users table"
+    columns:
+      - name: dim_user_id
+        tests:
+          - unique
+          - not_null
+      - name: email
+        tests:
+          - unique

@@ -1,0 +1,6 @@
+order_id,user_id,product,quantity,total_price,order_date
+1,1,Laptop,1,1200.00,2023-01-01
+2,2,Phone,2,1400.00,2023-01-05
+3,1,Monitor,1,300.00,2023-01-10
+4,3,Keyboard,3,150.00,2023-01-12
+5,4,Mouse,1,37.40,2024-04-12

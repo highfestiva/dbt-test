@@ -1,0 +1,5 @@
+user_id,full_name,email,country,signup_date
+1,Alice Smith,alice@x.com,US,2022-01-05
+2,Bob Johnson,bob@y.com,UK,2022-02-14
+3,Carol Lee,carol@z.com,CA,2022-03-20
+4,alice smith-gurny,ALICE@X.COM,us,2023-07-22
